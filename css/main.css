@@ -1,12 +1,11 @@
 html {
   font-family: "Lato", sans-serif;
-  background-color: #fcd3c1;
+  background-color: #2E343E;
 }
 
-.white {
+.dark {
   background-color: #fff;
-  border-bottom-left-radius: 40px;
-  border-bottom-right-radius: 40px;
+  height: 100vh;
 }
 
 h1 {
@@ -15,9 +14,9 @@ h1 {
 
 a {
   text-decoration: none;
-  color: #faad60;
+  color: #60D3BC;
 }
 
 a:hover {
-  color: #c8497a;
+  color: #9BE8AD;
 }
